@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<orders exported_at="2026-10-14T03:49:24">
+  <order id="7" order_date="2026-09-04" status="выполнен" total="2400.00">
+    <customer>
+      <name>Мария Соколова</name>
+      <phone>+7 900 222-33-44</phone>
+      <address>г. Москва, пр. Мира, 15</address>
+    </customer>
+    <items>
+      <item>
+        <product_name>Суши-сет</product_name>
+        <quantity>1</quantity>
+        <price>2400.00</price>
+      </item>
+    </items>
+  </order>
+  <order id="6" order_date="2026-09-24" status="выполнен" total="3600.00">
+    <customer>
+      <name>ООО «Ромашка»</name>
+      <phone>+7 495 123-45-67</phone>
+      <address>г. Москва, ул. Садовая, 7</address>
+    </customer>
+    <items>
+      <item>
+        <product_name>Кофе</product_name>
+        <quantity>12</quantity>
+        <price>180.00</price>
+      </item>
+      <item>
+        <product_name>Круассан</product_name>
+        <quantity>12</quantity>
+        <price>120.00</price>
+      </item>
+    </items>
+  </order>
+  <order id="5" order_date="2026-10-05" status="отменён" total="820.00">
+    <customer>
+      <name>Алексей Смирнов</name>
+      <phone>+7 900 333-44-55</phone>
+      <address>г. Химки, ул. Победы, 3</address>
+    </customer>
+    <items>
+      <item>
+        <product_name>Пицца Пепперони</product_name>
+        <quantity>1</quantity>
+        <price>820.00</price>
+      </item>
+    </items>
+  </order>
+  <order id="4" order_date="2026-10-09" status="выполнен" total="1060.00">
+    <customer>
+      <name>Иван Петров</name>
+      <phone>+7 900 111-22-33</phone>
+      <address>г. Москва, ул. Ленина, 1</address>
+    </customer>
+    <items>
+      <item>
+        <product_name>Бургер</product_name>
+        <quantity>2</quantity>
+        <price>380.00</price>
+      </item>
+      <item>
+        <product_name>Картофель фри</product_name>
+        <quantity>2</quantity>
+        <price>150.00</price>
+      </item>
+    </items>
+  </order>
+  <order id="3" order_date="2026-10-12" status="выполнен" total="4200.00">
+    <customer>
+      <name>ООО «Ромашка»</name>
+      <phone>+7 495 123-45-67</phone>
+      <address>г. Москва, ул. Садовая, 7</address>
+    </customer>
+    <items>
+      <item>
+        <product_name>Бизнес-ланч</product_name>
+        <quantity>10</quantity>
+        <price>420.00</price>
+      </item>
+    </items>
+  </order>
+  <order id="2" order_date="2026-10-13" status="в доставке" total="1920.00">
+    <customer>
+      <name>Мария Соколова</name>
+      <phone>+7 900 222-33-44</phone>
+      <address>г. Москва, пр. Мира, 15</address>
+    </customer>
+    <items>
+      <item>
+        <product_name>Роллы Филадельфия</product_name>
+        <quantity>3</quantity>
+        <price>590.00</price>
+      </item>
+      <item>
+        <product_name>Соус</product_name>
+        <quantity>3</quantity>
+        <price>50.00</price>
+      </item>
+    </items>
+  </order>
+  <order id="1" order_date="2026-10-14" status="новый" total="1500.00">
+    <customer>
+      <name>Иван Петров</name>
+      <phone>+7 900 111-22-33</phone>
+      <address>г. Москва, ул. Ленина, 1</address>
+    </customer>
+    <items>
+      <item>
+        <product_name>Пицца Маргарита</product_name>
+        <quantity>2</quantity>
+        <price>750.00</price>
+      </item>
+    </items>
+  </order>
+</orders>

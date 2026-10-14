@@ -1,0 +1,146 @@
+{
+  "exported_at": "2026-10-14T03:49:24",
+  "orders": [
+    {
+      "id": 7,
+      "order_date": "2026-09-04",
+      "status": "выполнен",
+      "total": 2400.0,
+      "customer": {
+        "name": "Мария Соколова",
+        "phone": "+7 900 222-33-44",
+        "address": "г. Москва, пр. Мира, 15"
+      },
+      "items": [
+        {
+          "product_name": "Суши-сет",
+          "quantity": 1,
+          "price": 2400.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "order_date": "2026-09-24",
+      "status": "выполнен",
+      "total": 3600.0,
+      "customer": {
+        "name": "ООО «Ромашка»",
+        "phone": "+7 495 123-45-67",
+        "address": "г. Москва, ул. Садовая, 7"
+      },
+      "items": [
+        {
+          "product_name": "Кофе",
+          "quantity": 12,
+          "price": 180.0
+        },
+        {
+          "product_name": "Круассан",
+          "quantity": 12,
+          "price": 120.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "order_date": "2026-10-05",
+      "status": "отменён",
+      "total": 820.0,
+      "customer": {
+        "name": "Алексей Смирнов",
+        "phone": "+7 900 333-44-55",
+        "address": "г. Химки, ул. Победы, 3"
+      },
+      "items": [
+        {
+          "product_name": "Пицца Пепперони",
+          "quantity": 1,
+          "price": 820.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "order_date": "2026-10-09",
+      "status": "выполнен",
+      "total": 1060.0,
+      "customer": {
+        "name": "Иван Петров",
+        "phone": "+7 900 111-22-33",
+        "address": "г. Москва, ул. Ленина, 1"
+      },
+      "items": [
+        {
+          "product_name": "Бургер",
+          "quantity": 2,
+          "price": 380.0
+        },
+        {
+          "product_name": "Картофель фри",
+          "quantity": 2,
+          "price": 150.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "order_date": "2026-10-12",
+      "status": "выполнен",
+      "total": 4200.0,
+      "customer": {
+        "name": "ООО «Ромашка»",
+        "phone": "+7 495 123-45-67",
+        "address": "г. Москва, ул. Садовая, 7"
+      },
+      "items": [
+        {
+          "product_name": "Бизнес-ланч",
+          "quantity": 10,
+          "price": 420.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "order_date": "2026-10-13",
+      "status": "в доставке",
+      "total": 1920.0,
+      "customer": {
+        "name": "Мария Соколова",
+        "phone": "+7 900 222-33-44",
+        "address": "г. Москва, пр. Мира, 15"
+      },
+      "items": [
+        {
+          "product_name": "Роллы Филадельфия",
+          "quantity": 3,
+          "price": 590.0
+        },
+        {
+          "product_name": "Соус",
+          "quantity": 3,
+          "price": 50.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "order_date": "2026-10-14",
+      "status": "новый",
+      "total": 1500.0,
+      "customer": {
+        "name": "Иван Петров",
+        "phone": "+7 900 111-22-33",
+        "address": "г. Москва, ул. Ленина, 1"
+      },
+      "items": [
+        {
+          "product_name": "Пицца Маргарита",
+          "quantity": 2,
+          "price": 750.0
+        }
+      ]
+    }
+  ]
+}
